@@ -1,5 +1,6 @@
 # Billy Bob Game
 
+The Billy Bob game is a platformer game where you have to find your pépé's treasure he lost in the wide wild world.  
 Made for highschool project (2016)
 
 ## Requirements
