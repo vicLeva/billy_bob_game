@@ -15,3 +15,7 @@ Made for highschool project (2016)
 
 ## Preview
 ![screenshot](include/img/screenshot.png "Level 1")
+
+## Acknowledgement
+Maxime cleret for the dialogue
+Pauline Mariette & Simon Lecordier for visuals + code
